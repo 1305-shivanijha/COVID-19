@@ -35,6 +35,8 @@ text-align: center;
 
 *{
 	box-sizing: border-box;
+	width:auto;
+	height:auto;
 }
 .column{
 	float:left;
